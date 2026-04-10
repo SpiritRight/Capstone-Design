@@ -26,9 +26,9 @@ from selenium.webdriver.common.keys import Keys
 from ultralytics import YOLO
 
 # --- 전역 설정 ---
-CONFIG_URL   = "http://3.36.174.53:8080/cleanguard/cctv/sse"
-LOGIN_URL    = "http://3.36.174.53:8080/oauth2/authorization/kakao"
-AWS_API_URL  = "http://3.36.174.53:8080/cleanguard/image/"
+CONFIG_URL   = ""
+LOGIN_URL    = ""
+AWS_API_URL  = ""
 CAPTURE_ROOT = "captures"
 
 # 무단투기 감지 파라미터
