@@ -14,7 +14,7 @@ IMAGE_FOLDER = "/mnt/d/캡스톤/datasets/val/images"
 OUTPUT_FOLDER = "/mnt/d/캡스톤/datasets/result/images_holding_bag"
 YOLO_LABELS_FOLDER = "/mnt/d/캡스톤/datasets/result/labels_holding_bag"
 
-TEXT_PROMPT = "person with trash bag ."
+TEXT_PROMPT = "trash bag ."
 BOX_TRESHOLD = 0.4
 TEXT_TRESHOLD = 0.8
 
